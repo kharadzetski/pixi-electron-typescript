@@ -12,7 +12,7 @@
     "url": "https://github.com/lieone/ts-pixi-electron-boilerplate.git"
   },
   "keywords": [
-    "pixi.js",
+    "pixijs",
     "electron",
     "typescript",
     "webpack",
